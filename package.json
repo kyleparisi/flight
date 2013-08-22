@@ -10,6 +10,7 @@
     "karma-firefox-launcher": "~0.1.0",
     "karma-phantomjs-launcher": "~0.1.0",
     "karma-safari-launcher": "~0.1.1",
+    "jshint": "~2.1.4",
     "loadbuilder": ">=0.4.2",
     "uglify-js": "~2.3.6"
   },
